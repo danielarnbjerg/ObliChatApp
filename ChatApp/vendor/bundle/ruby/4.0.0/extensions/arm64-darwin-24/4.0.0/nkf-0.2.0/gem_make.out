@@ -1,0 +1,19 @@
+current directory: /Users/DDY/GitHub/ObliChatApp/ChatApp/vendor/bundle/ruby/4.0.0/gems/nkf-0.2.0/ext/nkf
+/opt/homebrew/opt/ruby/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/DDY/GitHub/ObliChatApp/ChatApp/vendor/bundle/ruby/4.0.0/gems/nkf-0.2.0/ext/nkf
+make -j11 DESTDIR\= sitearchdir\=./.gem.20260413-93039-ltjlq4 sitelibdir\=./.gem.20260413-93039-ltjlq4 clean
+
+current directory: /Users/DDY/GitHub/ObliChatApp/ChatApp/vendor/bundle/ruby/4.0.0/gems/nkf-0.2.0/ext/nkf
+make -j11 DESTDIR\= sitearchdir\=./.gem.20260413-93039-ltjlq4 sitelibdir\=./.gem.20260413-93039-ltjlq4
+compiling nkf.c
+linking shared-object nkf.bundle
+ld: warning: search path '/opt/homebrew/Cellar/openssl@3/3.6.0/lib' not found
+
+current directory: /Users/DDY/GitHub/ObliChatApp/ChatApp/vendor/bundle/ruby/4.0.0/gems/nkf-0.2.0/ext/nkf
+make -j11 DESTDIR\= sitearchdir\=./.gem.20260413-93039-ltjlq4 sitelibdir\=./.gem.20260413-93039-ltjlq4 install
+/usr/bin/install -c -m 0755 nkf.bundle ./.gem.20260413-93039-ltjlq4
+
+current directory: /Users/DDY/GitHub/ObliChatApp/ChatApp/vendor/bundle/ruby/4.0.0/gems/nkf-0.2.0/ext/nkf
+make DESTDIR\= sitearchdir\=./.gem.20260413-93039-ltjlq4 sitelibdir\=./.gem.20260413-93039-ltjlq4 clean
